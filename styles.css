@@ -72,3 +72,12 @@ body {
 .light-text {
   color: var(--whiteColor);
 }
+
+/* @media */
+
+@media (max-width: 767px) {
+  body {
+    justify-content: flex-start;
+    padding-top: 66vh;
+  }
+}
