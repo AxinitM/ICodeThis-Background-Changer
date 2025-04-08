@@ -3,13 +3,11 @@
 This is a solution to a challenge "Make Me Functional" from the website [ICodeThis](https://icodethis.com/modes/functional/14).
 
 ## Table of contents
-- [icodethis - Background Changer](#icodethis---background-changer)
-  - [Table of contents](#table-of-contents)
-  - [Task](#task)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [Author](#author)
+- [Task](#task)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
 
 ## Screenshot
 
@@ -34,7 +32,7 @@ P.S. The challenge does not allow changes to the HTML and CSS code. However, I m
 
 ## Links
 
-[Background Changer Page](https://your-solution-url.com)
+[Background Changer Page](https://axinitm.github.io/ICodeThis-Background-Changer/)
 
 ## Built with
 
