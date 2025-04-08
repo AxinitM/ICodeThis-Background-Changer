@@ -28,6 +28,7 @@ P.S. The challenge does not allow changes to the HTML and CSS code. However, I m
 - adjusted the button's letter spacing;
 - added two new classes (dark-text and light-text);
 - added a copy button using the Font Awesome Library;
+- - on screens up to 767px wide, the page content shifts down by 2/3 of the screen height (for better usability on mobile devices);
 - implemented a background brightness check (the text color in the RGB code changes to either white or black depending on the background’s brightness).
 
 ## Links
