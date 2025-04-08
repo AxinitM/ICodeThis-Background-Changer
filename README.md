@@ -38,7 +38,9 @@ P.S. The challenge does not allow changes to the HTML and CSS code. However, I m
 
 ## Built with
 
-- Vanilla JS
+- HTML;
+- CSS;
+- Vanilla JS.
 
 ## Author
 
