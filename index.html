@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
+    <title>Background Changer / ICodeThis.com</title>
+
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+      rel="stylesheet"
+    />
+
+    <link href="styles.css" rel="stylesheet">
+  </head>
+  <!-- Change background button  -->
+  <body>
+    <button id="change" class="change-btn" aria-label="Change background color">
+      Change
+    </button>
+
+    <!-- Copy icon -->
+
+    <span
+      id="copy"
+      class="copy-icon"
+      aria-label="Copy RGB color code"
+      title="Copy"
+    >
+      <i class="fas fa-copy"></i>
+    </span>
+
+    <!-- RGB code string -->
+    <p id="color" class="color-text" role="status" aria-live="polite">
+      rgb(255, 255, 255)
+    </p>
+
+    <script src="script.js"></script>
+      
+    
+  </body>
+</html>
