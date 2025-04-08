@@ -1,4 +1,4 @@
-# icodethis - Background Changer
+# ICodeThis - Background Changer
 
 This is a solution to a challenge "Make Me Functional" from the website [ICodeThis](https://icodethis.com/modes/functional/14).
 
