@@ -35,6 +35,8 @@ body {
   letter-spacing: 0.4px;
   padding: 1.2rem 3rem;
   transition: transform 0.1s;
+  margin-top:3rem; 
+/*   margin-top- ?? */
 }
 
 .change-btn:active {
@@ -74,10 +76,16 @@ body {
 }
 
 /* @media */
-
 @media (max-width: 767px) {
+  body {
+    justify-content: flex-start;
+    padding-top: 58vh;
+  }
+}
+
+/* @media (max-width: 767px) {
   body {
     justify-content: flex-start;
     padding-top: 66vh;
   }
-}
+} */
